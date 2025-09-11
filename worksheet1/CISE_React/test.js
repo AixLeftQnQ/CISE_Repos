@@ -1,0 +1,1 @@
+function test(){console.assert.log("hello")}
