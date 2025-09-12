@@ -11,6 +11,6 @@ it('renders without crashing', () => {
 
 describe('Addition', () => {
   it('knows that 2 and 2 make 4', () => {
-    expect(2 + 2).toBe(4); // 验证2+2=4，使用Jest的expect和toBe匹配器
+    expect(2 + 2).toBe(4);
   });
 });
